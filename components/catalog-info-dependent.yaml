@@ -47,5 +47,5 @@ spec:
   providesApis:
     - petstore
   dependsOn:
-    - component:pexa-udevasai-service
+    - component:default/pexa-udevasai-service
 #  system: yournamehere-system
