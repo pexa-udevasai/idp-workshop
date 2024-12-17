@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
- dependsOn:
-   - component:pexa-udevasai-service
+  dependsOn:
+    - component:pexa-udevasai-service
 #  system: yournamehere-system
